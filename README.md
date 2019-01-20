@@ -38,6 +38,7 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 3
+![wishboxstudio](https://user-images.githubusercontent.com/46494501/51446804-fd577800-1ce4-11e9-8666-9ced8541d2b8.png)
 * http://wishboxstudio.in/social-impact-graphic-design/
 * Fisrt thing that popped out when i opened Safari is this previous site that I researched for my other class.
 * The website is fine. It is also responsive. Design is current and trendy. Some parts of it are asymmetrical which is quite interesting to look at.
