@@ -25,6 +25,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 2
+* https://asoftmurmur.com/
+* Google searched "interesting websites"
+* The desifgn is ok. It is responsive. There's a background image.
+* The navigation is quite simple. But I've encountered a problem that when you click on that "Blog" then click on "Get Updates", a "404 Not Found" page pops out.
+* The buttons are interactive. You also get to change the volume or sound level by sliding the buttons left - right.
+* The site is good. You get to mix different sounds (but not much option) and choose the volume level. I think this suits people who can think or work in an environnment with subtle or moderate sounds. Or they tend to work best with noise around them, but not that distractive.
+* I would not change anything i guess but additional sounds would be great like soft instrumental music or any sound that can still be considered pleasing and relaxing.
 
 
 
