@@ -38,6 +38,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 3
+* http://wishboxstudio.in/social-impact-graphic-design/
+* Fisrt thing that popped out when i opened Safari is this previous site that I researched for my other class.
+* The website is fine. It is also responsive. Design is current and trendy. Some parts of it are asymmetrical which is quite interesting to look at.
+* The navigation system is quite awesome. Unique hamburger menu.
+* Buttons are interactive (hover effect). There's also simple animation when hovering the mouse over images. At the very bottom, there is a contact section wherein you can leave a meesage to them using your email plus the captcha for verification purposes.
+* The site is great! Beautiful design and interesting contents. There are also cool interactive parts in it that I'd like to learn.
+* I don't see any parts of it that needs to change. It's alright.
 
 
 
