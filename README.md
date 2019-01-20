@@ -25,6 +25,7 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 2
+![softmurmur](https://user-images.githubusercontent.com/46494501/51444682-ed319f80-1cc8-11e9-9d03-6bb165bf3c95.png)
 * https://asoftmurmur.com/
 * Google searched "interesting websites"
 * The desifgn is ok. It is responsive. There's a background image.
