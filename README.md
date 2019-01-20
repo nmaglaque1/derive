@@ -13,7 +13,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 1
-
+* https://geoguessr.com/
+* Google searched "interesting websites"
+* The design looks current. It is responsive (tried and tested). There's a hover effect. Rounder edges.
+* The navigaton is easy to use. It is very simple that there seems to be less content in the navigation system.
+* The buttons are interactive, clicking it will lead you to the game.
+* The site is interesting to look at first. It is kinda challenging to play the game especially when you're not much of an outdoorsy person or doesn't know much about geography and stuff.
+* The ad is kinda annoying, you have to wait 5 seconds on every round before you get to know the result of your answer to the question. So removing this would be nice.
 
 
 ---
