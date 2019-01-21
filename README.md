@@ -66,6 +66,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 5
+* https://www.typingclub.com/sportal/
+* I got to discover this site some time ago when I was looking for a way on how to type while not looking on the keyboard. Then I just bookmarked it and still use it from time to time.
+* The website looks simple and easy on the eyes. I would not say that the design looks trendy but its ok.
+* The navigation system is good. It is obvious and easy to look through. Quite simple but that's ok.
+* Some buttons have the hover effect of changing the colour value or tint when pointed at by the cursor. Some text also shows data when the cursor hover at it.
+* I feel thankful for whoever made this site.It is quite useful for those who wants to learn how to type while not looking on the keyboard. I like this site.
+* I guess removing the ads on the side would be nice. It is not really getting on the way of my typing but having no unrelated things on the site is better.
 
 
 
