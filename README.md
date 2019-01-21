@@ -52,6 +52,13 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 4
+* http://www.arngren.net/
+* Google seearched "old looking websites", clicked on the 2nd result which is justinmind.com, then end up looking in this 90s website.
+* The website is not good, at least that's how i see it. Its full of unorganized information that's all over the place. There's no sense of design or any hierarchy. The font used varied in weight, colour, size which is kinda hard for the eyes. Its the type of website where I hesitate to click on a picture or text because it might bring me to some shady website or give me virus and whatnot. I'm not familiar with the language used.
+* Had a hard time finding the navigation system. Honestly, it's really messed up (sorry for criticizing it).
+* There are text that when you hover your mouse over it, the cursor changes to a small pointing hand indicating it can be click and lead you to a link of some sort.
+* I feel sad about this site, just thinking about the struggle of the people using this site on the past. It is not interesting to look at. The amount of information crammed in it just at first glance is insane.
+* Changing one thing in it would not suffice, I say change the whole site. Make a complete new site.
 
 
 
