@@ -52,6 +52,7 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 4
+![screen shot 2019-01-20 at 7 04 55 pm](https://user-images.githubusercontent.com/46494501/51447229-eebf8f80-1ce9-11e9-8917-2fdc93dad05b.png)
 * http://www.arngren.net/
 * Google seearched "old looking websites", clicked on the 2nd result which is justinmind.com, then end up looking in this 90s website.
 * The website is not good, at least that's how i see it. Its full of unorganized information that's all over the place. There's no sense of design or any hierarchy. The font used varied in weight, colour, size which is kinda hard for the eyes. Its the type of website where I hesitate to click on a picture or text because it might bring me to some shady website or give me virus and whatnot. I'm not familiar with the language used.
